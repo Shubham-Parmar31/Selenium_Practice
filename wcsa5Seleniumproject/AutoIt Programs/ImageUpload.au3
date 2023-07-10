@@ -1,0 +1,8 @@
+Sleep(1000)
+Send("C:\Users\shgir\OneDrive\Desktop\Resumes\Screenshot 2023-06-17 185023-modified.png")
+sleep(1000)
+Send("{TAB}")
+sleep(1000)
+Send("{TAB}")
+sleep(1000)
+Send("{ENTER}")
