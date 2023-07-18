@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Second_Suite">
+  <test thread-count="5" name="Second_Test">
+    <classes>
+      <class name="testNG.Sumo"/>
+      <class name="testNG.Remo"/>
+      <class name="testNG.Demo"/>
+    </classes>
+  </test> <!-- Second_Test -->
+</suite> <!-- Second_Suite -->
